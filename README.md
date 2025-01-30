@@ -427,4 +427,4 @@ But note: this is just an example, in reality this lab, while mandatory, will no
 
 You are required to work on this assignment **individually**. You may discuss high level concepts with others in the class but all the work must be completed by you.
 
-Remember, DO NOT POST YOUR CODE PUBLICLY ON GITHUB! Any code found on GitHub that is not the base template you are given will be reported to according to the (rules)[https://www.uni.lu/en/education/academic-matters/academic-conduct/]. If you want to sidestep this problem entirely, don't create a public fork and instead create a private repository to store your work.
+Remember, DO NOT POST YOUR CODE PUBLICLY ON GITHUB! Any code found on GitHub that is not the base template you are given will be reported to according to the [rules](https://www.uni.lu/en/education/academic-matters/academic-conduct/). If you want to sidestep this problem entirely, don't create a public fork and instead create a private repository to store your work.
