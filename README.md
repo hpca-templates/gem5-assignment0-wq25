@@ -1,9 +1,9 @@
 ---
-Author: Mahyar Samani, Kaustav Goswami, Jason Lowe-Power
+Author: Mahyar Samani, Kaustav Goswami, Jason Lowe-Power (UC Davis), Mats Brorsson (Uni.lu)
 Title: Getting started with gem5
 ---
 
-**Due on *January 15* 11:59 pm (PST)**: See [Submission](#submission) for details.
+**Due on *February 26* 11:59 pm (PST)**: See [Submission](#submission) for details.
 
 ## Table of Contents
 
@@ -421,8 +421,10 @@ The code included in the "Example command to run the script" section should be a
 - **25 points** for the `questions.md` file located at `getting-started-<yourGitHubUsername>/questions.md`
 - **25 points** for explanation of how to use your script located at `getting-started-<yourGitHubUsername>/questions.md`
 
+But note: this is just an example, in reality this lab, while mandatory, will not be graded.
+
 ## Academic misconduct reminder
 
 You are required to work on this assignment **individually**. You may discuss high level concepts with others in the class but all the work must be completed by you.
 
-Remember, DO NOT POST YOUR CODE PUBLICLY ON GITHUB! Any code found on GitHub that is not the base template you are given will be reported to SJA. If you want to sidestep this problem entirely, don't create a public fork and instead create a private repository to store your work.
+Remember, DO NOT POST YOUR CODE PUBLICLY ON GITHUB! Any code found on GitHub that is not the base template you are given will be reported to according to the (rules)[https://www.uni.lu/en/education/academic-matters/academic-conduct/]. If you want to sidestep this problem entirely, don't create a public fork and instead create a private repository to store your work.
